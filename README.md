@@ -1,5 +1,8 @@
 ## Getting Started with My NvChad's Custom Configuration
 
+![image](https://github.com/ashudevcodes/My-NeoVim-config/assets/105356967/538e010c-bcdf-4e7e-82b5-033ac6014e5e)
+
+
 This guide helps you set up the customize NvChad's configuration for a Neovim experience.
 
 **Prerequisites:**
