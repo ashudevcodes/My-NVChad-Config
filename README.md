@@ -1,17 +1,18 @@
-**Getting Started with My NvChad's Custom Configuration**
+## Getting Started with My NvChad's Custom Configuration
 
-This guide outlines the steps to customize NvChad's configuration for a tailored Neovim experience.
+This guide helps you set up the customize NvChad's configuration for a Neovim experience.
 
 **Prerequisites:**
 
-- **NvChad Installation:** Ensure you have NvChad installed on your system. Refer to the official NvChad documentation for installation instructions: [https://nvchad.com/docs/quickstart/install/](https://nvchad.com/docs/quickstart/install/)
+- **NvChad Installation:** Ensure you have NvChad installed on your system.
+-  Refer to the official NvChad documentation for installation instructions: [https://nvchad.com/docs/quickstart/install/](https://nvchad.com/docs/quickstart/install/)
 
-**Configuration Location:**
+## Configuration Location:
 
 - **Linux/macOS:** The NvChad configuration files reside in the `~/.config/nvim/lua/` directory.
 - **Windows:** The location is `~\AppData\Local\nvim\lua/`.
 
-**Customizing NvChad:**
+## Customizing NvChad:
 
 1. **Create a Custom Folder:**
    - Navigate to the `lua` directory within your NvChad configuration directory (as mentioned above).
@@ -30,8 +31,6 @@ This guide outlines the steps to customize NvChad's configuration for a tailored
 
 **Additional Considerations:**
 
-- **Manual Configuration (Optional):**
-   - If you prefer manual configuration, create Lua files within the `custom` folder to customize specific aspects of NvChad. Refer to the NvChad documentation for guidance on configuration options: [https://github.com/NvChad/NvChad](https://github.com/NvChad/NvChad)
 - **Overriding Default Settings:**
    - Custom configuration files in the `custom` folder take precedence over NvChad's default settings.
 - **Maintaining Compatibility:**
