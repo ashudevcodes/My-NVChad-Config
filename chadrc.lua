@@ -12,12 +12,6 @@ M.ui = {
 }
 
 
-M.telescope = {
-  n = {
-    ["<leader>fg"] = { "<cmd> Telescope live_grep <CR>", "Live grep" },
-  }
-}
-
 M.plugins = "custom.plugins"
 
 return M
